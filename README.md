@@ -159,3 +159,7 @@ A simplistic plugin would look like the following:
 
 )(jQuery)
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/comptly/hallo/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
